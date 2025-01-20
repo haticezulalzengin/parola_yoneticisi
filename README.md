@@ -32,7 +32,7 @@
 ---
 
 ### **📂 Proje Yapısı**
-```plaintext
+plaintext
 lib/
 ├── Models/
 │   └── Sifre.dart          # Şifre model dosyası
