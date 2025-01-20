@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742317270391",
+    "project_id": "parolayoneticisi-c1387",
+    "storage_bucket": "parolayoneticisi-c1387.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742317270391:android:afbc7e8e0168f45ee36d72",
+        "android_client_info": {
+          "package_name": "com.parola_yoneticisi_v2.parola_yoneticisi_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjvhO1hnzKxtLBF76xozyHJA51ZhcB7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
