@@ -73,7 +73,9 @@ lib/
 
 | Giriş Ekranı       | Şifre Yöneticisi Ekranı |
 |---------------------|-------------------------|
-| <img src="path_to_image1.png" width="200"/> | <img src="path_to_image2.png" width="200"/> |
+| ![Uploading WhatsApp Görsel 2025-01-20 saat 23.30.55_141aee72.jpg…]()
+<img src="path_to_image1.png" width="200"/> | ![Uploading WhatsApp Görsel 2025-01-20 saat 23.30.56_a2492880.jpg…]()
+<img src="path_to_image2.png" width="200"/> |
 
 
 
