@@ -71,11 +71,12 @@ lib/
 ---
 ### **📸 Ekran Görüntüleri**
 
-| **Giriş Ekranı**  | **Şifre Yönetim Ekranı** |
-|--------------------|--------------------------|
-| ![WhatsApp Görsel 2025-01-20 saat 23 30 56_a2492880](https://github.com/user-attachments/assets/4d0ae35f-4c6d-4256-a84a-02f47bb466fc)
-![Giriş](https://via.placeholder.com/200x400?text=Giriş+Ekranı) ![Uploading WhatsApp Görsel 2025-01-20 saat 23.30.56_a2492880.jpg…]()
-| ![Şifre Yönetimi](https://via.placeholder.com/200x400?text=Şifre+Yönetimi) |
+| Giriş Ekranı       | Şifre Yöneticisi Ekranı |
+|---------------------|-------------------------|
+| ![Giriş Ekranı]![WhatsApp Görsel 2025-01-20 saat 23 30 55_141aee72](https://github.com/user-attachments/assets/56e77fed-2128-45a7-83ac-40c28d10a5cb)
+ | ![Şifre Yöneticisi Ekranı]![WhatsApp Görsel 2025-01-20 saat 23 30 56_a2492880](https://github.com/user-attachments/assets/874dbaac-cd65-4903-b439-4a6efb5a54a0)
+ |
+
 ---
 
 ### **📬 İletişim**
