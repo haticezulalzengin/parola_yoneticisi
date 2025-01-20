@@ -32,7 +32,7 @@
 ---
 
 ### **📂 Proje Yapısı**
-plaintext
+```plaintext
 lib/
 ├── Models/
 │   └── Sifre.dart          # Şifre model dosyası
@@ -45,7 +45,7 @@ lib/
 │   ├── sifre_sifirlama_sayfasi.dart     # Şifre sıfırlama ekranı
 │   └── kullanici_sifre_guncelleme.dart  # Şifre güncelleme ekranı
 ├── main.dart              # Ana giriş dosyası
-
+```
 ---
 
 ### **🚀 Kurulum**
