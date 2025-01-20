@@ -73,8 +73,9 @@ lib/
 
 | Giriş Ekranı       | Şifre Yöneticisi Ekranı |
 |---------------------|-------------------------|
-| ![Uploading WhatsApp Görsel 2025-01-20 saat 23.30.55_141aee72.jpg…]()
- | ![Uploading WhatsApp Görsel 2025-01-20 saat 23.30.56_a2492880.jpg…]() |
+| ![Giriş Ekranı]![WhatsApp Görsel 2025-01-20 saat 23 30 55_141aee72](https://github.com/user-attachments/assets/bfc6f35a-0ddc-493a-b73f-689088fe7415)
+| ![Şifre Yöneticisi Ekranı]![WhatsApp Görsel 2025-01-20 saat 23 30 56_a2492880](https://github.com/user-attachments/assets/a8c16d3f-0c0f-4370-b93d-54d47ef7293e)
+ |
 
 
 
