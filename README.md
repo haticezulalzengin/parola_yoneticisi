@@ -73,7 +73,9 @@ lib/
 
 | **Giriş Ekranı**  | **Şifre Yönetim Ekranı** |
 |--------------------|--------------------------|
-| ![Giriş](https://via.placeholder.com/200x400?text=Giriş+Ekranı) | ![Şifre Yönetimi](https://via.placeholder.com/200x400?text=Şifre+Yönetimi) |
+| ![WhatsApp Görsel 2025-01-20 saat 23 30 56_a2492880](https://github.com/user-attachments/assets/4d0ae35f-4c6d-4256-a84a-02f47bb466fc)
+![Giriş](https://via.placeholder.com/200x400?text=Giriş+Ekranı) | ![WhatsApp Görsel 2025-01-20 saat 23 30 56_a2492880](https://github.com/user-attachments/assets/6288c4b8-3e2c-4e3d-abcd-f8d4bb742f83)
+![Şifre Yönetimi](https://via.placeholder.com/200x400?text=Şifre+Yönetimi) |
 ---
 
 ### **📬 İletişim**
