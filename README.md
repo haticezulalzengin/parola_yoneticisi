@@ -50,6 +50,38 @@ lib/
 
 ### **🚀 Kurulum**
 
+Bu projeyi kendi cihazınızda çalıştırmak için aşağıdaki adımları takip edin:
+
+## 1. Repozitory'i Klonlayın
+
+```bash
+git clone https://github.com/haticezulalzengin/parola_yoneticisi.git
+```
+
+## 2. Flutter ve Firebase'i Yapılandırın
+
+1. Flutter kurulumunu tamamlayın.
+2. Firebase projesi oluşturun ve `google-services.json` dosyasını `android/app` klasörüne ekleyin.
+3. Firebase ayarlarını `firebase_options.dart` dosyasına ekleyin.
+
+## 3. Gerekli Paketleri Yükleyin
+
+Terminalde şu komutları çalıştırarak Flutter bağımlılıklarını yükleyin:
+
+```bash
+flutter pub get
+```
+
+## 4. Uygulamayı Çalıştırın
+
+Uygulamayı çalıştırmak için şu komutu kullanabilirsiniz:
+
+```bash
+flutter run
+```
+
+
+
 ---
 
 ### **🛠️ Önemli Notlar**
